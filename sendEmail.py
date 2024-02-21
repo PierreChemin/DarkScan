@@ -18,7 +18,7 @@ def main():
     message["Subject"] = "Rapport scann DarkWeb"
 
     # Corps du message
-    body = "Bonjour messieurs,\nVous trouverez ci-joint le rapport généré lors du scan du Dark web.\nCordialement,\nChef des robots"
+    body = "Bonjour messieurs,\n\nVous trouverez ci-joint le rapport généré lors du scan du Dark web.\n\Cordialement,\nChef des robots"
     message.attach(MIMEText(body, "plain"))
 
     # Attachement du fichier texte

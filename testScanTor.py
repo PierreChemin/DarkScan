@@ -70,7 +70,7 @@ def main():
 
 
     #Lancement de la recherhce d'url
-    rechercheUrl.main()
+    #rechercheUrl.main()
     print("RECHERCHE URL FINI")
     
     #Reset du fichier contenant les résultats

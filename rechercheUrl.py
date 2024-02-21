@@ -94,6 +94,8 @@ def main():
     writeInFile(arrayUrl, resultF)
     print("done")
     
+    #Remise à 0 du fichier urlRecup.txt
+    dirD.clear_file("result/urlRecup.txt")
     return 0
 
 
