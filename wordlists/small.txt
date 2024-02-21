@@ -1,0 +1,15 @@
+administrator
+admin
+wp-admin
+xml
+~adm
+~admin
+~administrator
+~bin
+~ftp
+~guest
+~mail
+?product=4725
+#
+product-category/bank-drops/index.html
+about/index.html
