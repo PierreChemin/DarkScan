@@ -15,8 +15,8 @@ def siteExploitable():
 
     #Déclaration des variables
     arraySites = []
-    siteAenum = "/Users/pierrechemin/Desktop/Cyllene/darkScan/wordlists/sitesUtilisables.txt"
-    url = "/Users/pierrechemin/Desktop/Cyllene/darkScan/wordlists/urlUtilisables.txt"
+    siteAenum = "wordlists/sitesUtilisables.txt"
+    url = "wordlists/urlUtilisables.txt"
     #On run le dirb et on remplis le rapport et les urls utilisables
     dirD.main()
 
